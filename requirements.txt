@@ -1,0 +1,4 @@
+process
+open
+googleapis
+@google-cloud/local-auth
