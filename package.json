@@ -1,0 +1,17 @@
+{
+  "name": "emailassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amul",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.0",
+    "googleapi": "^1.0.2",
+    "googleapis": "^128.0.0",
+    "process": "^0.11.10"
+  }
+}
